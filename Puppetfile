@@ -1,0 +1,5 @@
+mod 'puppetlabs-stdlib', '4.25.1'
+mod 'puppetlabs-apt', '4.5.1'
+mod 'elastic-kibana', '6.0.1'
+mod 'richardc-datacat', '0.6.2'
+mod 'elastic-elasticsearch', '6.2.2'

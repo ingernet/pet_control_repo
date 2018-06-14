@@ -1,6 +1,9 @@
 ---
 version: 5  
 
+defaults:
+    datadir: data
+
 hierarchy:  
   - name: "Encrypted data"
     lookup_key: eyaml_lookup_key

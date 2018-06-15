@@ -1,3 +1,3 @@
 class role::elk {
-    include profile::elk_server
+  include profile::elk_server
 }
